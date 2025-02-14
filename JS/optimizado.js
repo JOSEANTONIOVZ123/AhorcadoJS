@@ -1,0 +1,1 @@
+//TODO: Por optimizar el código de ahorcado.js
